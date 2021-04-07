@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T12:31:26.429Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="No3cEaKnSNmh7pXJxHdI" version="14.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-07T13:53:34.851Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="OVNEWd-BWFeY6Ct6oPXI" version="14.5.4" type="github">
   <diagram id="86kJOD3FTfGB_nQPswBw" name="Page-1">
     <mxGraphModel dx="1082" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -134,8 +134,53 @@
             <mxPoint x="610" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ywekRPkuvrdd1Em90ifP-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="ywekRPkuvrdd1Em90ifP-19" target="ywekRPkuvrdd1Em90ifP-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ywekRPkuvrdd1Em90ifP-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ywekRPkuvrdd1Em90ifP-19" target="ywekRPkuvrdd1Em90ifP-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ywekRPkuvrdd1Em90ifP-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ywekRPkuvrdd1Em90ifP-19" target="ywekRPkuvrdd1Em90ifP-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ywekRPkuvrdd1Em90ifP-19" value="搜索实验平台" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="580" y="550" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ywekRPkuvrdd1Em90ifP-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ywekRPkuvrdd1Em90ifP-28" target="ywekRPkuvrdd1Em90ifP-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ywekRPkuvrdd1Em90ifP-28" value="摩西平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ywekRPkuvrdd1Em90ifP-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ywekRPkuvrdd1Em90ifP-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720.0000000000002" y="1070.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ywekRPkuvrdd1Em90ifP-29" value="摩西机器人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ywekRPkuvrdd1Em90ifP-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ywekRPkuvrdd1Em90ifP-31" target="ywekRPkuvrdd1Em90ifP-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="user" id="ywekRPkuvrdd1Em90ifP-31">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+            <mxGeometry x="100" y="1040" width="30" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="user" id="ywekRPkuvrdd1Em90ifP-33">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+            <mxGeometry x="730" y="1040" width="30" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="ywekRPkuvrdd1Em90ifP-35" value="poker" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="670" y="530" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ywekRPkuvrdd1Em90ifP-36" value="augur" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="670" y="610" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ywekRPkuvrdd1Em90ifP-37" value="ab平台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="670" y="570" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
