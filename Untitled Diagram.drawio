@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T13:55:21.109Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="pAc-BRuDo9ZWekYdnmYT" version="14.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-07T13:56:05.819Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="03YiP7lLPN9sYRCrYlxQ" version="14.5.4" type="github">
   <diagram id="86kJOD3FTfGB_nQPswBw" name="Page-1">
     <mxGraphModel dx="1082" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -154,7 +154,7 @@
         </mxCell>
         <mxCell id="ywekRPkuvrdd1Em90ifP-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ywekRPkuvrdd1Em90ifP-29">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="720.0000000000002" y="1070.0000000000002" as="targetPoint" />
+            <mxPoint x="710" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ywekRPkuvrdd1Em90ifP-29" value="摩西机器人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -170,7 +170,7 @@
         </object>
         <object label="user" id="ywekRPkuvrdd1Em90ifP-33">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-            <mxGeometry x="730" y="1040" width="30" height="60" as="geometry" />
+            <mxGeometry x="890" y="1040" width="30" height="60" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="ywekRPkuvrdd1Em90ifP-35" value="poker" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -181,6 +181,12 @@
         </mxCell>
         <mxCell id="ywekRPkuvrdd1Em90ifP-37" value="ab平台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="670" y="570" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ywekRPkuvrdd1Em90ifP-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ywekRPkuvrdd1Em90ifP-43" target="ywekRPkuvrdd1Em90ifP-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ywekRPkuvrdd1Em90ifP-43" value="对话" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1030" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
